@@ -20,7 +20,6 @@ jQuery(function($) {
 
       });
 
-
   // Collapse navbar on click
 
    $(document).on('click.nav','.navbar-collapse.in',function(e) {
